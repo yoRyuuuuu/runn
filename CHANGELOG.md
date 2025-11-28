@@ -1,3 +1,5 @@
+## [v1.1.0](https://github.com/yoRyuuuuu/runn/commits/v1.1.0) - 2025-11-28
+
 ## [v1.1.0](https://github.com/k1LoW/runn/compare/v1.0.0...v1.1.0) - 2025-11-22
 ### New Features 🎉
 - feat: expand curl data file support by @yoRyuuuuu in https://github.com/k1LoW/runn/pull/1355
